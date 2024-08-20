@@ -4,6 +4,10 @@
 
 [<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Osmosis%20-%20Bitcanna.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) [<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Osmosis%20-%20Dymension.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F)  [<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Osmosis%20-%20jackal.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) [<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Osmosis%20-%20Provenance.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) [<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Osmosis%20-%20Quicksilver.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) [<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Osmosis%20-%20Umee.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) 
 
+<h1 align="center"> ALTHEA </h1>
+
+[<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Althea%20-%20Gravity.png' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) <img src='https://github.com/111STAVR111/ibc_logo/blob/main/Althea%20-%20Noble.png' height='105'>
+
 <h1 align="center"> BITCANNA </h1>
 
 [<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Bicanna%20-%20%20Osmosis.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) 
@@ -11,6 +15,10 @@
 <h1 align="center"> DYMENSION </h1>
 
 [<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Dymension%20-%20Osmosis.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) 
+
+<h1 align="center"> GRAVITY </h1>
+
+[<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Gravity%20-%20Althea.png' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) 
 
 <h1 align="center"> JACKAL </h1>
 
@@ -23,6 +31,10 @@
 <h1 align="center"> MEME </h1>
 
 [<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Meme%20-%20Juno.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) 
+
+<h1 align="center"> NOBLE </h1>
+
+[<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Noble%20-%20Althea.png' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) 
 
 <h1 align="center"> PROVENANCE </h1>
 
