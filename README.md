@@ -2,7 +2,7 @@
 
 <h1 align="center"> OSMOSIS </h1>
 
-[<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Osmosis%20-%20Bitcanna.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) [<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Osmosis%20-%20Dymension.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F)  [<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Osmosis%20-%20jackal.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) [<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Osmosis%20-%20Provenance.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) [<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Osmosis%20-%20Quicksilver.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) [<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Osmosis%20-%20Umee.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) 
+[<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Osmosis%20-%20Bitcanna.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) [<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Osmosis%20-%20Celestia.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) [<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Osmosis%20-%20Dymension.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F)  [<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Osmosis%20-%20jackal.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) [<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Osmosis%20-%20Provenance.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) [<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Osmosis%20-%20Quicksilver.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) [<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Osmosis%20-%20Umee.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) 
 
 <h1 align="center"> ALTHEA </h1>
 
@@ -12,9 +12,13 @@
 
 [<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Bicanna%20-%20%20Osmosis.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) 
 
+<h1 align="center"> CELESTIA </h1>
+
+[<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Celestia%20-%20Dymension.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F)  [<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Celestia%20-%20Osmosis.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F)
+
 <h1 align="center"> DYMENSION </h1>
 
-[<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Dymension%20-%20Osmosis.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F) 
+[<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Dymension%20-%20Celestia.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F)  [<img src='https://github.com/111STAVR111/ibc_logo/blob/main/Dymension%20-%20Osmosis.png?raw=true' height='105'>](https://relayers.smartstake.io/relayer/F2F91999ECCC092F)
 
 <h1 align="center"> GRAVITY </h1>
 
